@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ekvdnl@gmail.com
+	name = Daniel tukevkin
